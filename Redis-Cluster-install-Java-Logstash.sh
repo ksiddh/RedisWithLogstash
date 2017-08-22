@@ -333,4 +333,4 @@ systemctl status redis_${REDIS_PORT}
 installJava
 java -version
 echo "Installing logstash..."
-installLogstash
+installLogstash 
