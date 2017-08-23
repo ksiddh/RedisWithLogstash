@@ -1,3 +1,6 @@
+# Kibana dashboard example
+![Alt text](https://github.com/ksiddh/RedisWithLogstash/blob/master/KibanaSnapshot.JPG "Title")
+
 # RedisWithLogstash
 This script will install Redis, Java and Logstash on Centos.
 * Redis version: 3.2.8 running on port 6739 is the default but can be overwritten
@@ -26,3 +29,4 @@ This script will install Redis, Java and Logstash on Centos.
   
   # Tests: 
   ## *Please refer to RedisClusterCreate.sh ReadMe for detailed explanations*
+
